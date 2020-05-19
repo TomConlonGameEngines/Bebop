@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.ge2examples2020.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\skooter500\\Documents\\courses\\GE2-2019-2020\\GE2 Examples 2020\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "GE2 Examples 2020 [Testing]"
+        }
+      }
+    }
+  ]
+}
