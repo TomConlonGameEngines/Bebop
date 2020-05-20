@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e9ec6eed4752cbf40990e38c5db406f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 10
+  delayBeforeLoading: 20
   sceneNameToLoad: Image3
 --- !u!1 &963194225
 GameObject:
