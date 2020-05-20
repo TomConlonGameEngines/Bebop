@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assignment Scenes/Obstacles.unity
+    guid: 3365374a128e344a3aaca42f38591138
+  - enabled: 1
+    path: Assets/Assignment Scenes/EndStart.unity
+    guid: 774266aed399fec48a5bf1d8232fe421
+  - enabled: 1
+    path: Assets/Assignment Scenes/Tank Scene.unity
+    guid: c80e008f1c912f24f8a958b49ff7561f
+  - enabled: 1
+    path: Assets/Assignment Scenes/RocketFlight.unity
+    guid: eec087086d2910e49aa52680d56b0c28
   m_configObjects: {}
