@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Assignment Scenes/Scene1.unity
     guid: 3365374a128e344a3aaca42f38591138
   - enabled: 1
+    path: Assets/Assignment Scenes/Image1.unity
+    guid: ef674660b833c164089d7e61adb4b113
+  - enabled: 1
     path: Assets/Assignment Scenes/Scene2.unity
     guid: 774266aed399fec48a5bf1d8232fe421
   - enabled: 1
@@ -24,6 +27,18 @@ EditorBuildSettings:
     path: Assets/Assignment Scenes/Scene6.unity
     guid: eec087086d2910e49aa52680d56b0c28
   - enabled: 1
-    path: Assets/Assignment Scenes/Scene7.unity
+    path: Assets/Assignment Scenes/Scene 7.unity
     guid: 8e5bd842023321543a8bf4a5b936c243
+  - enabled: 1
+    path: Assets/Assignment Scenes/Scene8.unity
+    guid: f4872883c113c95458708f43f1e88b11
+  - enabled: 1
+    path: Assets/Assignment Scenes/Image.unity
+    guid: 71c3e22e354705f4882f44120f13a6d9
+  - enabled: 1
+    path: Assets/Assignment Scenes/Image3.unity
+    guid: d27e7b44b20aef445bfe35da5e833531
+  - enabled: 1
+    path: Assets/Assignment Scenes/Image2.unity
+    guid: fa438b504fe62454c9029d74bbd0df15
   m_configObjects: {}
