@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9018774349072118452
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3873918658332865949, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: totalObjects
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873918658332865949, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: objectPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 151664, guid: fa49e460baf435b4780da7196c2ab473, type: 3}
+    - target: {fileID: 3873918658332865949, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: objectPrefabs.Array.data[0]
+      value: 
+      objectReference: {fileID: 141316, guid: 84cc3cd234dfc9d4d9d2e92c0eb0af75, type: 3}
+    - target: {fileID: 6237930616032141282, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_Name
+      value: Asteroid Fields
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6237930616032141283, guid: 2c001a2c936d52c4a806a2b8b388be94,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2c001a2c936d52c4a806a2b8b388be94, type: 3}
