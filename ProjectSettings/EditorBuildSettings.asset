@@ -6,15 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Assignment Scenes/Obstacles.unity
+    path: Assets/Assignment Scenes/Scene1.unity
     guid: 3365374a128e344a3aaca42f38591138
   - enabled: 1
-    path: Assets/Assignment Scenes/EndStart.unity
+    path: Assets/Assignment Scenes/Scene2.unity
     guid: 774266aed399fec48a5bf1d8232fe421
   - enabled: 1
-    path: Assets/Assignment Scenes/Tank Scene.unity
+    path: Assets/Assignment Scenes/Scene3.unity
     guid: c80e008f1c912f24f8a958b49ff7561f
   - enabled: 1
-    path: Assets/Assignment Scenes/RocketFlight.unity
+    path: Assets/Assignment Scenes/Scene4.unity
+    guid: b9f24b2a2d266154a8b4adc7d416f592
+  - enabled: 1
+    path: Assets/Assignment Scenes/Scene5.unity
+    guid: 4cdab6741b9ccd245962ca851a22f64f
+  - enabled: 1
+    path: Assets/Assignment Scenes/Scene6.unity
     guid: eec087086d2910e49aa52680d56b0c28
+  - enabled: 1
+    path: Assets/Assignment Scenes/Scene7.unity
+    guid: 8e5bd842023321543a8bf4a5b936c243
   m_configObjects: {}
